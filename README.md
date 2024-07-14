@@ -1,4 +1,4 @@
-# STM32 Object Detection with TensorFlow Lite (Simulator)
+# STM32 Object Detection with TensorFlow Lite
 
 This project demonstrates how to deploy a Convolutional Neural Network (CNN) model to detect the number of objects in an image captured by an STM32 microcontroller using TensorFlow Lite. 
 The model will be trained to identify and count objects in an image and will be optimized for the resource constraints of the STM32 environment.
