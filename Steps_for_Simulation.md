@@ -13,7 +13,7 @@
 
 ## Prepare the TFLite Model:
 
-- Convert your TensorFlow model to a TensorFlow Lite model if you haven’t done so already.
+- Convert your TensorFlow model to a **TensorFlow Lite model**.
 - Use the TensorFlow Lite for Microcontrollers conversion tool to convert your model to a format optimized for microcontrollers.
 - Save the model as a .cc file (e.g., model_data.cc) which includes the TFLite model in a C array format.
 
