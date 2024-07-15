@@ -16,3 +16,10 @@ Initially we are using a simulator and then will be deployed to physical STM32 h
 - OpenCV (for image processing)
 - QEMU-based STM32 simulator (e.g., Renode or STM32CubeIDE QEMU)
 
+## Object Detection Task
+
+For object detection and counting with TensorFlow and TensorFlow Lite, we will use a pre-trained model like MobileNet SSD (Single Shot MultiBox Detector).
+This is quite efficient for object detection tasks on mobile and embedded devices. 
+
+A first step is to use TensorFlow's Object Detection API to perform object detection-
+(and count the number of detected objects, such as balls, flowers etc.)
