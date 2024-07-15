@@ -7,7 +7,7 @@
 
 ## Integrate TensorFlow Lite for Microcontrollers:
 
-- Clone the TensorFlow Lite for Microcontrollers repository from GitHub.
+- Clone the [TensorFlow Lite for Microcontrollers repository](https://github.com/tensorflow/tflite-micro) from GitHub.
 - Include TensorFlow Lite for Microcontrollers source files and headers in your STM32CubeIDE project.
 - Follow the TensorFlow Lite for Microcontrollers Getting Started Guide to understand how to integrate and use the library.
 
