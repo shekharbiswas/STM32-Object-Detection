@@ -17,7 +17,7 @@
 - Use the TensorFlow Lite for Microcontrollers conversion tool to convert your model to a format optimized for microcontrollers.
 - Save the model as a .cc file (e.g., model_data.cc) which includes the TFLite model in a C array format.
 
-## Write the Main Application Code:
+## Write Object Detection Application:
 
-In your STM32CubeIDE project, write the main application code that loads the TFLite model, processes input data, and invokes the model for inference.
+In your STM32CubeIDE project, write the Object Detection application code that loads the TFLite model, processes input data, and invokes the model for inference.
 
