@@ -9,8 +9,9 @@ Then, we will deploy it to the STM32 microcontroller.
 
 Initially we are using a simulator and then will be deployed to physical STM32 hardware.
 
-[![The_video_not_found](https://img.youtube.com/vi/bSeQp56Qz1k&list=PLnMKNibPkDnF6-h0x06AATx1kAuBiPRTE/0.jpg)](https://www.youtube.com/watch?v=bSeQp56Qz1k&list=PLnMKNibPkDnF6-h0x06AATx1kAuBiPRTE)
+Here is an embedded video:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bSeQp56Qz1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
