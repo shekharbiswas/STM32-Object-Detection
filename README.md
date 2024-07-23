@@ -10,8 +10,7 @@ Then, we will deploy it to the STM32 microcontroller.
 Initially we are using a simulator and then will be deployed to physical STM32 hardware.
 
 **STM32H747I-DISCO Applications**:
-
-[![Watch the video](https://img.youtube.com/vi/bSeQp56Qz1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=bSeQp56Qz1k&list=PLnMKNibPkDnF6-h0x06AATx1kAuBiPRTE)
+[![Watch the video](https://img.youtube.com/vi/bSeQp56Qz1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=66LIrdb07pY&list=PLnMKNibPkDnF6-h0x06AATx1kAuBiPRTE)
 
 
 
@@ -31,3 +30,9 @@ This is quite efficient for object detection tasks on mobile and embedded device
 
 A first step is to use TensorFlow's Object Detection API to perform object detection-
 (and count the number of detected objects, such as balls, flowers etc.)
+
+
+Face recognition:
+
+[![Watch the video](https://img.youtube.com/vi/bSeQp56Qz1k/maxresdefau66LIrdb07pYlt.jpg)](https://www.youtube.com/watch?v=bSeQp56Qz1k&list=PLnMKNibPkDnF6-h0x06AATx1kAuBiPRTE)
+
