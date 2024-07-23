@@ -9,7 +9,7 @@ Then, we will deploy it to the STM32 microcontroller.
 
 Initially we are using a simulator and then will be deployed to physical STM32 hardware.
 
-Here is an embedded video:
+**STM32H747I-DISCO Applications**:
 
 [![Watch the video](https://img.youtube.com/vi/bSeQp56Qz1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=bSeQp56Qz1k&list=PLnMKNibPkDnF6-h0x06AATx1kAuBiPRTE)
 
