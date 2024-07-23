@@ -11,7 +11,7 @@ Initially we are using a simulator and then will be deployed to physical STM32 h
 
 Here is an embedded video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bSeQp56Qz1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/bSeQp56Qz1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=bSeQp56Qz1k&list=PLnMKNibPkDnF6-h0x06AATx1kAuBiPRTE)
 
 
 
