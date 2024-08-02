@@ -32,7 +32,4 @@ A first step is to use TensorFlow's Object Detection API to perform object detec
 (and count the number of detected objects, such as balls, flowers etc.)
 
 
-Face recognition:
-
-[![Watch the video](https://img.youtube.com/vi/bSeQp56Qz1k/maxresdefault.jpg)](https://www.youtube.com/watch?v=66LIrdb07pY&list=PLnMKNibPkDnF6-h0x06AATx1kAuBiPRTE)
 
